@@ -1,4 +1,4 @@
-Starter TEST TEST TEST is a barebones starting TEST TEST TEST point for responsive sites built on Jekyll and with
+Starter TEST TEST TEST is a barebones starting HMMMM point for responsive sites built on Jekyll and with
 site management in [prose](http://prose.io). To get started, Fork this repo and [install Jekyll](http://jekyllrb.com/docs/installation).
 
 To work on the site locally, run `jekyll serve --watch`, then visit `http://localhost:4000/starter/` in your browser.
